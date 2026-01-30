@@ -6,4 +6,5 @@
 | EXP-02 | Decision Tree | Max depth = 5 | Scaling | Selected | 80/20 | 0.98 | 0.99 |
 | EXP-03 | Random Forest | 100 trees | Scaling | Selected | 80/20 | 0.99 | 1.00 |
 | EXP-04 | SVM | RBF kernel | Scaling | PCA | 80/20 | 0.98 | 0.99 |
+| EXP-05 | KNN | k=5 | Scaling | All features | 80/20 | 0.95 | 0.97 |
 
